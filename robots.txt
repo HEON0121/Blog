@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://heon0121.github.io/blog/sitemap-index.xml
+Host: https://heon0121.github.io
